@@ -1,0 +1,11 @@
+click>=8.0
+pyyaml>=6.0
+httpx>=0.24
+
+[dev]
+pytest>=7.0
+pytest-cov>=4.0
+black>=23.0
+ruff>=0.1
+mypy>=1.0
+types-PyYAML

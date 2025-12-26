@@ -1,0 +1,2 @@
+[console_scripts]
+conversation-fixture = conversation_fixture.cli:main
